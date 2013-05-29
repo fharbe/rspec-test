@@ -1,0 +1,686 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.ru",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pacake",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"packa l",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"packes",
+				"Package Control: List Packages"
+			],
+			[
+				"sider",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fh/Sites/tasks/config.ru",
+		"/Users/fh/Sites/tasks/app/models/task.rb",
+		"/Users/fh/Sites/tasks/db/migrate/20130529163425_create_tasks.rb",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/global.scss",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/login2.css.scss",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/__login.css.scss",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/login.css.scss",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/fh/Sites/qhead/app/views/layouts/application.html.erb",
+		"/Users/fh/Sites/qhead/.l",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/application.css",
+		"/Users/fh/Sites/qhead/public/assets/application.css",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/add2home.css",
+		"/Users/fh/Sites/qhead/public/assets/application.js",
+		"/Users/fh/Sites/qhead/app/assets/javascripts/add2home.js",
+		"/Users/fh/Sites/qhead/.gitignore",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fh/Sites/qhead/db/migrate/20130527155607_add_question_id_to_answer.rb",
+		"/Users/fh/Sites/qhead/db/schema.rb",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fh/Sites/qhead/db/migrate/20130427153819_create_questions.rb",
+		"/Users/fh/Sites/qhead/app/models/answer.rb",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fh/Sites/qhead/db/seeds.rb",
+		"/Users/fh/Sites/qhead/Gemfile",
+		"/Users/fh/Sites/qhead/Rakefile",
+		"/Users/fh/Sites/qhead/config/initializers/sass.rb",
+		"/Users/fh/.bash_profile",
+		"/Users/fh/Sites/qhead/app/assets/stylesheets/site.css.scss",
+		"/Users/fh/.gemrc",
+		"/Users/fh/Sites/omrails/.gitignore",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/fh/.ssh/test",
+		"/Users/fh/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/fh/Desktop/VoodooHDA.kext/Contents/Resources/English.lproj/InfoPlist.strings",
+		"/Volumes/Daten/fh/Downloads/sketch_keyfilemaker",
+		"/Volumes/apps/Mac OS X/Adobe/Adobe Creative Suite 6 Master Collection Deutsch/Keygen/disable_activation_osx"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo40",
+			"@include box-sizing(border-box);",
+			"line",
+			"switch",
+			"D",
+			"cool",
+			"Dalton",
+			"default"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-webkit-box-sizing: border-box;\n	-moz-box-sizing: border-box;\n	-ms-box-sizing: border-box;\n	box-sizing: border-box;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.ru",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"c",
+				"config.ru"
+			],
+			[
+				"co",
+				"config.ru"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"con",
+				"config.ru"
+			],
+			[
+				"modelstak",
+				"app/models/task.rb"
+			],
+			[
+				"taskco",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"miga",
+				"db/migrate/20130529163425_create_tasks.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"ind",
+				"app/views/tasks/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"ta",
+				"spec/requests/tasks_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"taks",
+				"spec/requests/tasks_spec.rb"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/global.scss"
+			],
+			[
+				"login.cc",
+				"app/assets/stylesheets/login.css.scss"
+			],
+			[
+				"apper",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"lo",
+				"app/assets/stylesheets/login.css.scss"
+			],
+			[
+				"appapp",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"app",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"logi",
+				"app/views/layouts/login.html.erb"
+			],
+			[
+				"l",
+				"app/assets/stylesheets/login.css.scss"
+			],
+			[
+				"",
+				"config/application.rb"
+			],
+			[
+				"appli",
+				"public/assets/application.css"
+			],
+			[
+				"site",
+				"app/assets/stylesheets/site.css.scss"
+			],
+			[
+				"ap",
+				"config/application.rb"
+			],
+			[
+				"application.ht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appjava",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appl",
+				"public/assets/application.js"
+			],
+			[
+				"aoo",
+				"app/controllers/agentur_controller.rb"
+			],
+			[
+				"scr",
+				"app/assets/javascripts/script.js"
+			],
+			[
+				"applica",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"coach",
+				"app/views/user/coach.html.erb"
+			],
+			[
+				"answ",
+				"app/models/answer.rb"
+			],
+			[
+				"answe",
+				"app/models/answer.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"globa",
+				"app/assets/stylesheets/_global.scss"
+			],
+			[
+				"log",
+				"app/assets/stylesheets/login.css.scss"
+			],
+			[
+				"viewsappli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"views",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/site.css.scss"
+			],
+			[
+				"agen",
+				"app/models/agentur.rb"
+			],
+			[
+				"page",
+				"app/controllers/pages_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/fh/Sites/qhead/qhead.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true
+}
