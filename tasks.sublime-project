@@ -4,5 +4,9 @@
 		{
 			"path": "/Users/fh/Sites/tasks"
 		}
-	]
+	],
+	"settings":
+	{
+		"tab_size": 2
+	}
 }
